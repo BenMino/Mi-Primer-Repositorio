@@ -8,13 +8,13 @@ Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
 ## ✅ Respuestas
  
 ### 🧪 ¿Qué hice aquí?
-Aprender cómo usar la plataforma GitHub para desarrollar futuros proyectos de la asignatura.
+Aprender cómo usar la plataforma GitHub para desarrollar futuros proyectos dentro de la asignatura de Informática.
  
 ### 😮 ¿Qué es GitHub?
-GitHub es una plataforma en la nube diseñada para desarrolladores que permite alojar, gestionar y colaborar en proyectos de software.
+GitHub es una plataforma en la nube diseñada para desarrolladores que permite alojar, gestionar y colaborar en proyectos de software. Funciona como una red social y portafolio técnico donde se almacena código fuente (repositorios), facilitando el trabajo colaborativo, el seguimiento de cambios y la integración continua.
  
 ### 🎯 ¿Para qué me sirve?
-Para elaborar proyectos relacionados con la asignatura.
+Para elaborar proyectos relacionados con la asignatura de Informática.
  
 ---
  
