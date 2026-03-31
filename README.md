@@ -8,13 +8,13 @@ Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
 ## ✅ Respuestas
  
 ### 🧪 ¿Qué hice aquí?
-(Respuesta)
+Aprender cómo usar la plataforma GitHub para desarrollar futuros proyectos de la asignatura.
  
 ### 😮 ¿Qué es GitHub?
-(Respuesta)
+GitHub es una plataforma en la nube diseñada para desarrolladores que permite alojar, gestionar y colaborar en proyectos de software.
  
 ### 🎯 ¿Para qué me sirve?
-(Respuesta)
+Para elaborar proyectos relacionados con la asignatura.
  
 ---
  
@@ -24,7 +24,7 @@ Aquí ya realicé varios cambios en GitHub.
 ---
  
 ## 👤 Sobre mí
-Nombre:
-Curso: 
+Nombre: Benjamin Miño
+Curso: Informática R3 - PD 1
  
  
